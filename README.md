@@ -31,5 +31,3 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
 
 </div><br>
-
-Cursando Analise e Desenvolvimento de Sistemas e Aluno da Comunidade Hashtag Treinamentos.
